@@ -91,7 +91,7 @@ jupyter notebook notebooks/svm_breast_cancer.ipynb
 
 ## Autor
 
-Darek — student WSB MERITO, kierunek *(uzupełnij)*
+Dariusz Gradzik — student WSB MERITO, kierunek Informatyka, Data Science
 
 ## Licencja
 
